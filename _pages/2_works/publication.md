@@ -15,6 +15,7 @@ permalink: /works/publication/
 
 ### 査読付き論文
 
+- S. Aikawa, A. Suzuki, K. Yoshitake, K. Teshigawara, A. Iwabuchi, K. Kobayashi, K. Nakata: [Hierarchical time series forecasting with robust reconciliation](https://openreview.net/forum?id=XHPLjF52gY){:target="_blank"}. *Transactions on Machine Learning Research*, 2026.
 - S. Yamao, R. Ueda, S. Koguchi, M. Nakase, A. Suzuki, K. Toyoda, K. Kobayashi, and K. Nakata: [Estimating sales transitions between competing products via optimal transport](https://doi.org/10.1371/journal.pone.0325173){:target="_blank"}. *PLOS ONE*, 20: e0325173 (2025).
 - A. Inoue, B. Zhu, K. Mizutani, K. Kobayashi, T. Yasuda, A. Wellner, C. C. Liu, and T. Kitaguchi: [Prediction of single-mutation effects for fluorescent immunosensor engineering with an end-to-end trained protein language model](https://doi.org/10.1021/jacsau.4c01189){:target="_blank"}. *JACS Au*, 5 (2025), 955-964.
 - T. Hara, Y. Sumiya, and K. Nakata: [Trend analysis with interpretability and cold-start problems for recommender systems](https://doi.org/10.1007/s12626-024-00168-0){:target="_blank"}. *The Review of Socionetwork Strategies*, 18 (2024), 329--344.

@@ -13,7 +13,12 @@ permalink: /works/talk/
 
 ### 口頭発表
 
-- **S. Yamao**, Y. Mibuchi, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and K. Nakata: Robust prescriptive pricing under competitor price uncertainty. [*2025 IEEE International Conference on Big Data*](http://bigdataieee.org/BigData2025/){:target="_blank"}, Galaxy International Convention Center, Macau, December 2025.
+- **K. Yoshida**, K. Kobayashi, K. Kawai, Y. Ito, N. Ikemoto, and K. Nakata: The electric vehicle routing problem with hard time windows and nonlinear charging and discharging. [*15th International Conference on Operations Research and Enterprise Systems (ICORES 2026)*](https://icores.scitevents.org/?y=2026){:target="_blank"}, Barceló Marbella, Spain, March 2026.
+- **相川修平**, 小林健, 浅見正洋, 川上孝介, 中田和秀: 非定常環境に対応した検索連動型広告の入札額最適化. [日本オペレーションズ・リサーチ学会 2026年春季研究発表会](https://orsj.org/2026s/){:target="_blank"}, 麗澤大学 校舎さつき, 2026年3月.
+- **永井将太**, 翁啓翔, 齋藤優太, 小林健, 中田和秀: リスト特性のパーソナライズのための効率的なオフ方策学習. [日本オペレーションズ・リサーチ学会 2026年春季研究発表会](https://orsj.org/2026s/){:target="_blank"}, 麗澤大学 校舎さつき, 2026年3月.
+- **山尾奬紀**, 松井諒生, 小林健, 西村直樹, 中田和秀: 観測誤差と確率分布の不確実性を考慮したロバスト意思決定指向学習. [日本オペレーションズ・リサーチ学会 2026年春季研究発表会](https://orsj.org/2026s/){:target="_blank"}, 麗澤大学 校舎さつき, 2026年3月.
+- **中屋嘉弥**, 吉武渓, 吉田開, 吉岡桃香, 清武志功, 益山尚大, 吉村光瑛, 山﨑公耀, 中田和秀: 書籍情報を考慮した店舗特性分析. [令和7年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 ビッグデータを用いたマーケティング分析研究部会 中間発表会](http://www.yokoyamalab.org/societies/mab/){:target="_blank"}, 青山学院大学 青山キャンパス, 2025年12月.
+- S. Yamao, **Y. Mibuchi**, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and K. Nakata: Robust prescriptive pricing under competitor price uncertainty. [*2025 IEEE International Conference on Big Data*](http://bigdataieee.org/BigData2025/){:target="_blank"}, Galaxy International Convention Center, Macau, December 2025.
 - **K. Toyoda**, Y. Utsumi, K. Kobayashi, K. Nakata: Classification of strategic patents under the scarcity of labeled data, [*2025 IEEE International Conference on Big Data*](http://bigdataieee.org/BigData2025/){:target="_blank"}, Galaxy International Convention Center, Macau, December 2025.
 - **相川修平**, 鈴木愛, 吉武渓, 勅使川原奏大, 岩渕亮, 小林健, 中田和秀: 予測誤差の不確実性を考慮したロバスト階層的時系列予測. [日本オペレーションズ・リサーチ学会 2025年秋季研究発表会](https://orsj.org/2025f/){:target="_blank"}, 広島大学 東広島キャンパス, 2025年9月.
 - **吉田開**, 小林健, 川井一馬, 伊東悠太郎, 池本宣昭, 中田和秀: 時間窓及び非線形放充電を考慮した電気自動車の配送計画問題. [日本オペレーションズ・リサーチ学会 2025年秋季研究発表会](https://orsj.org/2025f/){:target="_blank"}, 広島大学 東広島キャンパス, 2025年9月.
