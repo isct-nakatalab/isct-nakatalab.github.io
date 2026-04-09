@@ -12,12 +12,15 @@ permalink: /works/talk/
 - [ポスター発表](#ポスター発表)
 
 ### 口頭発表
-
+- **守山日向**, 越智大登, 川田隼, 呉景琪, 金井秀斗, ニクライ龍平ダニエル, 横田大智, 渡辺隼人, 小林健: 書店ごとの売上傾向の違いを考慮したバブル型連合学習による書籍需要予測, [令和7年度データ解析コンペティション 成果報告会](https://jasmac-j.jimdofree.com/#cc-m-11265871679){:target="_blank"}, 中央大学 後楽園キャンパス, 2026年3月.
 - **K. Yoshida**, K. Kobayashi, K. Kawai, Y. Ito, N. Ikemoto, and K. Nakata: The electric vehicle routing problem with hard time windows and nonlinear charging and discharging. [*15th International Conference on Operations Research and Enterprise Systems (ICORES 2026)*](https://icores.scitevents.org/?y=2026){:target="_blank"}, Barceló Marbella, Spain, March 2026.
+- **T. Matsuba**: Decision Making Analysis of Environmental Pollution Conflicts in Ontario Using an Extended GMCR Framework. [*2026 16th International Conference on Future Environment and Energy (ICFEE 2026)*](https://www.icfee.org/){:target="_blank"}, TKP Garden City PREMIUM Tenjin, March 2026.
 - **相川修平**, 小林健, 浅見正洋, 川上孝介, 中田和秀: 非定常環境に対応した検索連動型広告の入札額最適化. [日本オペレーションズ・リサーチ学会 2026年春季研究発表会](https://orsj.org/2026s/){:target="_blank"}, 麗澤大学 校舎さつき, 2026年3月.
 - **永井将太**, 翁啓翔, 齋藤優太, 小林健, 中田和秀: リスト特性のパーソナライズのための効率的なオフ方策学習. [日本オペレーションズ・リサーチ学会 2026年春季研究発表会](https://orsj.org/2026s/){:target="_blank"}, 麗澤大学 校舎さつき, 2026年3月.
 - **山尾奬紀**, 松井諒生, 小林健, 西村直樹, 中田和秀: 観測誤差と確率分布の不確実性を考慮したロバスト意思決定指向学習. [日本オペレーションズ・リサーチ学会 2026年春季研究発表会](https://orsj.org/2026s/){:target="_blank"}, 麗澤大学 校舎さつき, 2026年3月.
+- **守山日向**, 越智大登, 川田隼, 呉景琪, 金井秀斗, ニクライ龍平ダニエル, 横田大智, 渡辺隼人, 小林健: 書店ごとの売上傾向の違いを考慮したバブル型連合学習による書籍需要予測. [令和7年度データ解析コンペティション 日本経営工学会 経営情報部門予選会 最終発表会](https://almondine-rhythm-dd8.notion.site/8ecd63da891144d7b40e782f1657164e){:target="_blank"}, 東海大学 品川キャンパス, 2026年2月.
 - **中屋嘉弥**, 吉武渓, 吉田開, 吉岡桃香, 清武志功, 益山尚大, 吉村光瑛, 山﨑公耀, 中田和秀: 書籍情報を考慮した店舗特性分析. [令和7年度データ解析コンペティション 日本オペレーションズ・リサーチ学会 ビッグデータを用いたマーケティング分析研究部会 中間発表会](http://www.yokoyamalab.org/societies/mab/){:target="_blank"}, 青山学院大学 青山キャンパス, 2025年12月.
+- **横田大智**, 越智大登, 川田隼, 呉景琪, 守山日向, 金井秀斗, ニクライ龍平ダニエル, 渡辺隼人, 小林健: 書店ごとの売上傾向の違いを考慮した書籍の需要予測. [令和7年度データ解析コンペティション 日本経営工学会 経営情報部門予選会 中間発表会](https://almondine-rhythm-dd8.notion.site/8ecd63da891144d7b40e782f1657164e#fff32db61d8980618a5ae5d1de294e4c){:target="_blank"}, online, 2025年11月.
 - S. Yamao, **Y. Mibuchi**, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and K. Nakata: Robust prescriptive pricing under competitor price uncertainty. [*2025 IEEE International Conference on Big Data*](http://bigdataieee.org/BigData2025/){:target="_blank"}, Galaxy International Convention Center, Macau, December 2025.
 - **K. Toyoda**, Y. Utsumi, K. Kobayashi, K. Nakata: Classification of strategic patents under the scarcity of labeled data, [*2025 IEEE International Conference on Big Data*](http://bigdataieee.org/BigData2025/){:target="_blank"}, Galaxy International Convention Center, Macau, December 2025.
 - **相川修平**, 鈴木愛, 吉武渓, 勅使川原奏大, 岩渕亮, 小林健, 中田和秀: 予測誤差の不確実性を考慮したロバスト階層的時系列予測. [日本オペレーションズ・リサーチ学会 2025年秋季研究発表会](https://orsj.org/2025f/){:target="_blank"}, 広島大学 東広島キャンパス, 2025年9月.
