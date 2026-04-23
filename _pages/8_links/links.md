@@ -41,7 +41,6 @@ nav-order: 8
 - [人工知能学会](https://www.ai-gakkai.or.jp/){:target="_blank"}
 - [日本応用数理学会](https://jsiam.org/){:target="_blank"}
   - [連続最適化研究部会](https://sites.google.com/view/jsiam-conopt/){:target="_blank"}
-- [ICCOPT 2016](http://www.iccopt2016.tokyo/){:target="_blank"}
 - [経営科学系研究部会連合協議会](https://jasmac-j.jimdofree.com/){:target="_blank"}
 
 ### フリーな数値計算・最適化ソフトウェアなど

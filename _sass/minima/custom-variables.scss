@@ -11,3 +11,6 @@ $link-hover-header-color: #ffffff;
 
 $max-width: 960px;
 $on-medium: $max-width - 1;
+
+// システムのデフォルトフォントを使う設定
+$base-font-family: system-ui, sans-serif;

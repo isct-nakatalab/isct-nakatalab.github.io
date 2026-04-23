@@ -55,10 +55,6 @@ permalink: /for-students/laboratory/
 - W.J. Cook, W.H. Cunningham, W.R. Pulleyblank, and A. Schrijver: *Combinatorial Optimization* (John Wiley & Sons, 1998).
 - D.P. Bertsekas: *Nonlinear Programming* (Athena Scientific, 1999).
 
-#### ゼミ合宿
-
-夏休みにゼミ合宿を行っています．ここでは全員が夏休みに行った研究の成果をスライドで発表します．制限時間内に研究の背景から結果までを初めて聞いた人にも分かるように説明する必要があり，自分の研究をコンパクトにまとめる能力が必要になってきます．
-
 ### 研究室の様子
 
 研究室に所属すると，日々の生活の大半を研究室で過ごすことになります．ここでは中田研の研究室の様子について紹介します．
@@ -79,7 +75,7 @@ permalink: /for-students/laboratory/
 
 ### イベント
 
-原則として全員参加の合宿だけでなく，希望者でスポーツ観戦や登山に行くこともあります．以下にこれまでに行ったイベントを挙げておきます．
+学生主催で歓迎会やイベントが定期的に行われている他，希望者で野球観戦などに行くこともあります．以下にこれまでに行ったイベントを挙げておきます．
 
 {% if site.paginate %}
 {% assign posts = paginator.events %}
