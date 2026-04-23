@@ -14,27 +14,9 @@ nav-order: 4
 
 研究室に興味を持った方は，ぜひ中田先生や学生と連絡をとり，研究室へいらしてください！ただし，突然の訪問には対応できない場合がありますので，事前にご連絡の上，日時などを決めておくことをお薦めします．<span style="color: #e74c3c;">中田研究室を第1希望で大学院入試の願書を出すときは，必ず出願前に中田先生に連絡して下さい．</span>研究室活動や入試対策について学生と相談をしたい場合は，下記の学生アドレスまでお気軽にご連絡下さい．
 
-- [連絡先 / Contact Us](contact)
-
-<!--
-- 連絡先のページを新規に作る
-- 出願，メール宛先についての注意書きを両方に書く
- -->
-
-## 連絡先 / Contact Us
-メールアドレスの☆を@に変更してください (Please replace "☆" with "@" in the email addresses below.)
-
-**Important: Application emails must be sent to Prof. Nakata, not the student email address (nakatalab.student).**
-
-### 中田先生へ / To Prof. Nakata
-入試の出願や研究室訪問について相談したい場合 / For inquiries regarding admissions or lab visits
-
-- Email: nakata.k.ac☆m.titech.ac.jp
-
-### 研究室の学生へ / To Lab Students
-日々の活動や入試対策について質問したい場合 / For questions about daily activities or exam preparation
-
-- Email: nakatalab.student☆gmail.com
+- [連絡先](contact_jp)
+- [Contact Us](contact_en)
+- [联系我们](contact_cn)
 
 ## [研究室紹介](laboratory)
 
