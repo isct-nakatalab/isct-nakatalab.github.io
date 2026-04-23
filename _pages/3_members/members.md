@@ -7,7 +7,7 @@ nav-order: 3
 ---
 
 {: align="center"}
-![集合写真](/images/3_members/members-2025.jpeg)
+![集合写真](/images/3_members/members-2026.JPG)
 
 ## [教員](faculty)
 
