@@ -68,25 +68,26 @@ a:active {
     color: $link-hover-color;
 }
 
+// header
 .header-wrapper {
-      max-width: $max-width;
-      margin-left: auto;
-      margin-right: auto;
-      padding-left: 1em;
-      padding-right: 1em;
-      display: flex;
-      align-items: center;
-      gap: 2em;
+    max-width: $max-width;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+    display: flex;
+    align-items: center;
+    gap: 2em;
 }
 
 @media screen and (min-width: #{$on-medium}) {
-      .site-title {
-          float: none;
-      }
-      .site-nav {
-          float: none;
-          margin-left: auto;  // タブを右端に寄せる
-      }
+    .site-title {
+        float: none;
+    }
+    .site-nav {
+        float: none;
+        margin-left: auto;
+    }
 }
 
 .site-header {
