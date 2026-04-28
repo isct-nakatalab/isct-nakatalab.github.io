@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 資料
+title: 講義資料
 permalink: /text/
 nav-bar: True
 nav-order: 7

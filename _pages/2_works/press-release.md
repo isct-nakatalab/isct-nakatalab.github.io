@@ -5,7 +5,7 @@ permalink: /works/press-release/
 ---
 
 ## プレスリリース
-
+- [博報堂テクノロジーズ、オペレーションズ・リサーチ学会の事例研究賞を受賞](https://recruit.hakuhodo-technologies.co.jp/hadoh/2923/){:target="_blank"}, 2025年10月28日.
 - [博報堂テクノロジーズ，機械学習・深層学習分野のトップカンファレンス「ICLR」にて共著論文採択](https://prtimes.jp/main/html/rd/p/000000021.000113498.html){:target="_blank"}, 2024年4月23日.
 - [効果的なA/Bテストのためのオフライン評価性能検証指標の新規提案 --- 学習・評価・検証を行うオープンソースソフトウェアを無償公開](https://www.titech.ac.jp/news/2024/069044){:target="_blank"}, 2024年4月23日.
 - [双方向の表示順バイアスを考慮したランキング指標](https://blog.recruit.co.jp/data/articles/kdd_2023_workshop/){:target="_blank"}, 2023年9月11日.

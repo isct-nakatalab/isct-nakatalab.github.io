@@ -85,7 +85,8 @@ permalink: /works/publication/
 - Y. Saito, H. Sakata, and K. Nakata: [Doubly robust prediction and evaluation methods improve uplift modeling for observational data](https://doi.org/10.1137/1.9781611975673.53){:target="_blank"}. *Proceedings of the SIAM International Conference on Data Mining (ICDM 2019)*, 19 (2019), 468--476.
 
 ### プレプリント・テクニカルレポート・講究録
-
+- H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito: [Towards Assessing and Benchmarking Risk-Return Tradeoff of Off-Policy Evaluation](
+https://doi.org/10.48550/arXiv.2311.18207){:target="_blank"}. *arXiv preprint*, arXiv: 2311.18207, (2024).
 - M. Nishijima and B. F. Lourenço: [Non-facial exposedness of copositive cones over symmetric cones](https://optimization-online.org/?p=25530){:target="_blank"}. *Optimization Online*, (2024).
 - M. Nishijima: [On the longest chain of faces of the completely positive and copositive cones](https://optimization-online.org/?p=22913){:target="_blank"}. *Optimization Online*, (2023).
 - 星野雄毅, 内海祥雅, 中田和秀: [Contrastive Learningを利用した類似特許検索](https://doi.org/10.51094/jxiv.344){:target="_blank"}. *Jxiv preprint*, Jxiv: 344, (2023).
