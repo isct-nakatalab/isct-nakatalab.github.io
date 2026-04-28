@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 所属希望の学生へ
+title: 学生の方へ
 permalink: /for-students/laboratory/
 ---
 
