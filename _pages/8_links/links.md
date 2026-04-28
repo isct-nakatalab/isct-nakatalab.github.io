@@ -2,8 +2,6 @@
 layout: page
 title: リンク
 permalink: /links/
-nav-bar: True
-nav-order: 8
 ---
 
 ### 東京科学大学 学内
