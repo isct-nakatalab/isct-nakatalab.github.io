@@ -115,5 +115,14 @@ https://doi.org/10.48550/arXiv.2311.18207){:target="_blank"}. *arXiv preprint*, 
 - M. Tanaka, K. Nakata, and H. Waki: Application of a facial reduction algorithm and an inexact primal-dual interior-point method for doubly nonnegative relaxation for mixed binary nonconvex quadratic optimization problems. *Technical Report 2011-11, Department of Industrial Engineering and Management, Tokyo Institute of Technology*, (2011).
 
 ### 解説記事
-
 - 倉又迪哉, 中田和秀: [量子アニーリングと組合せ最適化](https://orsj.org/wp-content/corsj/or67-6/or67_6_280.pdf){:target="_blank"}. オペレーションズ・リサーチ, 67 (2022), 280--289.
+
+- 中田和秀: [経営工学によるスマート社会の実現を目指して　ー東京工業大学　中田研究室ー](https://iap-jp.org/jima/pdf_journal/login.php?filename=3001/30_043.pdf){:target="_blank"}. 経営システム, Vol. 30, No.1, 43-47 (2020).
+
+- 中田和秀: [主双対内点法](https://orsj.org/wp-content/corsj/or64-4/or64_4_218.pdf){:target="_blank"}. オペレーションズ・リサーチ, Vol.64, No.4, 218-224 (2019).
+
+- 中田和秀: [データ解析コンペティションへの挑戦](https://orsj.org/wp-content/corsj/or63-5/or63_5_274.pdf){:target="_blank"}. オペレーションズ・リサーチ, Vol.63, No.5, 274-277 (2018).
+
+- 中田和秀: [半正定値計画の問題記述＆解決能力](https://orsj.org/wp-content/corsj/or55-7/or55_7_387.pdf){:target="_blank"}. オペレーションズ・リサーチ, Vol.55, 387-392, (2010).
+
+- 中田和秀, 藤澤克樹, 福田光浩, 山下真, 中田真秀, 小林和博: [最適化ソフトウェアSDPA](https://www.jstage.jst.go.jp/article/bjsiam/18/1/18_KJ00004881433/_pdf/-char/ja){:target="_blank"}. 応用数理 18, 2-14, (2008)．

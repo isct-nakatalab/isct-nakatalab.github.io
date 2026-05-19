@@ -11,9 +11,9 @@ permalink: /members/faculty/
 - 居室：東京科学大学大岡山キャンパス西9号館521号室
 - 郵便宛先：〒152-8552 東京都目黒区大岡山2-12-1 W9-60
 - TEL：03-5734-3321
-- FAX：03-5734-3321
 - Email：nakata.k.ac☆m.titech.ac.jp（☆を@に変更）
-- ウェブページ：[https://www.nakatalab.iee.e.titech.ac.jp/nakata/index.html](https://www.nakatalab.iee.e.titech.ac.jp/nakata/index.html){:target="_blank"}
+- Researchmap：[https://researchmap.jp/read0102080](https://researchmap.jp/read0102080)
+- Google Scholar：[https://scholar.google.co.jp/citations?user=KzcySzUAAAAJ&hl=ja&oi=ao](https://scholar.google.co.jp/citations?user=KzcySzUAAAAJ&hl=ja&oi=ao)
 
 #### 2026年度担当授業
 
@@ -30,7 +30,6 @@ permalink: /members/faculty/
 - [数値的最適化](https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=2&GakkaCD=321919&KeiCD=19&course=19&KougiCD=202404747&Nendo=2024&lang=JA&vid=03){:target="_blank"}（経営工学コース 4Q）
   - 対称錐計画法に対する実用的なアルゴリズムである内点法を扱う．
   - 特に，内点法にまつわる数学的理論，最適性条件，多項式時間での収束性，計算効率性などについて学ぶ．
-
 
 ### 引間友也（助教）
 

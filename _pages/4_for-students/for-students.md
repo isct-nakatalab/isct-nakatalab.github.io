@@ -12,7 +12,7 @@ nav-order: 4
 
 研究では，未解決の問題に正対し，何からの新しい知見を得る必要があります．これは容易なことではなく，苦労を厭わず粘り強く課題に取り組まなければなりません．そのため，研究室に所属する学生には，ただ言われたことを漫然とこなすのではなく，自覚を持って意欲的に研究することを求めています．また，大学院生に対しては，最終的に得られた成果を学会などの場で発表することを期待しています（ということは，まず発表できる程度の成果をあげる必要があります）．
 
-研究室に興味を持った方は，ぜひ下記の連絡先より中田まで連絡を下さい．また，2月から5月の間には毎月1回オープンラボを開催しており、研究室の詳細や雰囲気が分かるとても良い機会ですので参加を強くお勧めします．<span style="color: #e74c3c;">中田研究室を第1希望で大学院入試の願書を出すときは，必ず出願前に中田先生に連絡して下さい．</span>研究室活動や入試対策について学生と相談をしたい場合は，下記の連絡先より学生アドレスまでお気軽にご連絡下さい．
+研究室に興味を持った方は，ぜひ下記の連絡先より中田まで連絡を下さい．また，2月から5月の間には毎月1回オープンラボを開催しており、研究室の詳細や雰囲気が分かるとても良い機会ですので参加を強くお勧めします．<span style="color: #e74c3c;">なお，中田研究室を第1希望で大学院入試の願書を出すときは，必ず出願前に中田まで連絡を下さい．</span>研究室活動や入試対策について学生と相談をしたい場合は，下記の連絡先より学生アドレスまでお気軽にご連絡下さい．
 
 If you are interested in our laboratory, please contact Prof. Nakata using the contact information below. In addition, we hold an Open Lab once a month from February to May. We strongly recommend participating, as it is an excellent opportunity to learn more about our research and the atmosphere of the laboratory. <span style="color: #e74c3c;">If you plan to apply to the graduate program with the Nakata Laboratory as your first choice, you must contact Prof. Nakata before submitting your application.</span>
 
