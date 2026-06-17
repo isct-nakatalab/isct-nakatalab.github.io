@@ -12,6 +12,7 @@ permalink: /works/talk/
 - [ポスター発表](#ポスター発表)
 
 ### 口頭発表
+- **川上孝介**, 中田和秀: 予測不確実性に頑健な広告予算配分 -Moment-based DROによるアプローチ-. [2026年度 人工知能学会全国大会 (第40回)](https://conf.ai-gakkai.or.jp/jsai2026/){:target="_blank"}, Gメッセ群馬, 2026年6月.
 - **S. Aikawa**, K. Kobayashi, M. Asami, K. Kawakami, and K. Nakata: Bid optimization for search advertising in non-stationary environment. [*Research and Applications of Foundation Models for Data Mining and Affective Computing 2026 (RAFDA 2026)*](https://rafda-pakdd.github.io/RAFDA2026/){:target="_blank"}, Regal Riverside Hotel, Hong Kong, June 2026.
 - **守山日向**, 越智大登, 川田隼, 呉景琪, 金井秀斗, ニクライ龍平ダニエル, 横田大智, 渡辺隼人, 小林健: 書店ごとの売上傾向の違いを考慮したバブル型連合学習による書籍需要予測, [令和7年度データ解析コンペティション 成果報告会](https://jasmac-j.jimdofree.com/#cc-m-11265871679){:target="_blank"}, 中央大学 後楽園キャンパス, 2026年3月.
 - **K. Yoshida**, K. Kobayashi, K. Kawai, Y. Ito, N. Ikemoto, and K. Nakata: The electric vehicle routing problem with hard time windows and nonlinear charging and discharging. [*15th International Conference on Operations Research and Enterprise Systems (ICORES 2026)*](https://icores.scitevents.org/?y=2026){:target="_blank"}, Barceló Marbella, Spain, March 2026.
