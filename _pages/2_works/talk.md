@@ -12,6 +12,7 @@ permalink: /works/talk/
 - [ポスター発表](#ポスター発表)
 
 ### 口頭発表
+- **D. Yokota**, H. Hase, K. Lee, K. Kobayashi: Elementary School Timetable Optimization for Reducing Schoolbag Weight. [*The 17th Multidisciplinary International Student Workshop (MISW 2026)*](https://www.aotule.i.isct.ac.jp/MISW/2026/){:target="_blank"}, Institute of Science Tokyo, August 2026.
 - **H. Moriyama**, J. Wu, H. Watanabe, H. Kawata, D. Ochi, S. Kanai, D. Yokota, R. Daniel Niklai, K. Kobayashi, K. Nakata: Prediction Performance-based Grouping for Bubble-based Federated Learning in Retail Demand Forecasting. [*The 24th Conference of the International Federation of Operational Research Societies*](https://ifors2026.at/home/){:target="_blank"}, University of Vienna, July 2026.
 - **川上孝介**, 中田和秀: 予測不確実性に頑健な広告予算配分 -Moment-based DROによるアプローチ-. [2026年度 人工知能学会全国大会 (第40回)](https://conf.ai-gakkai.or.jp/jsai2026/){:target="_blank"}, Gメッセ群馬, 2026年6月.
 - **S. Aikawa**, K. Kobayashi, M. Asami, K. Kawakami, and K. Nakata: Bid optimization for search advertising in non-stationary environment. [*Research and Applications of Foundation Models for Data Mining and Affective Computing 2026 (RAFDA 2026)*](https://rafda-pakdd.github.io/RAFDA2026/){:target="_blank"}, Regal Riverside Hotel, Hong Kong, June 2026.
