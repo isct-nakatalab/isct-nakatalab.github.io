@@ -12,6 +12,9 @@ permalink: /works/talk/
 - [ポスター発表](#ポスター発表)
 
 ### 口頭発表
+- **中屋 嘉弥**, 吉武 渓, 吉田 開, 吉岡 桃香, 吉村 光瑛, 山崎 公耀, 清武 志功, 益山 尚大, 小林 健, 中田 和秀: 商品人気・店舗規模の影響を除いた店舗・商品間の類似度に基づく関係学習, [日本オペレーションズ・リサーチ学会 2026年秋季研究発表会](https://orsj.org/2026f/){:target="_blank}, 京都大学, 2026年9月.
+- **守山日向**, 呉景琪, 渡辺隼人, 越智大登, 川田隼, 金井秀斗, ニクライ龍平ダニエル, 横田大智, 小林健, 中田和秀: 売上傾向の違いを考慮したバブル型連合学習による小売需要予測, [日本オペレーションズ・リサーチ学会 2026年秋季研究発表会](https://orsj.org/2026f/){:target="_blank}, 京都大学, 2026年9月.
+- **H. Moriyama**, K. Kobayashi, K. Kawai, Y. Ito, N. Ikemoto, K. Nakata: Electric Vehicle Routing Problem with Time-window and Capacitated Charging Station Constraints. [Conference on Operations Research 2026](https://or2026.de/){:target="blank"}, University of Passau, September 2026.
 - **D. Yokota**, H. Hase, K. Lee, K. Kobayashi: Elementary School Timetable Optimization for Reducing Schoolbag Weight. [*The 17th Multidisciplinary International Student Workshop (MISW 2026)*](https://www.aotule.i.isct.ac.jp/MISW/2026/){:target="_blank"}, Institute of Science Tokyo, August 2026.
 - **H. Moriyama**, J. Wu, H. Watanabe, H. Kawata, D. Ochi, S. Kanai, D. Yokota, R. Daniel Niklai, K. Kobayashi, K. Nakata: Prediction Performance-based Grouping for Bubble-based Federated Learning in Retail Demand Forecasting. [*The 24th Conference of the International Federation of Operational Research Societies*](https://ifors2026.at/home/){:target="_blank"}, University of Vienna, July 2026.
 - **川上孝介**, 中田和秀: 予測不確実性に頑健な広告予算配分 -Moment-based DROによるアプローチ-. [2026年度 人工知能学会全国大会 (第40回)](https://conf.ai-gakkai.or.jp/jsai2026/){:target="_blank"}, Gメッセ群馬, 2026年6月.
